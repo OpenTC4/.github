@@ -1,1 +1,1 @@
-# .github
+# files for the profile
